@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       element: document.getElementById("typing-text-2"),
-      text: "Hi, I'm [Your Name], a Web Developer and Copywriter.",
+      text: "Hi, I'm Wazeem Akthar, a Web Developer and Copywriter.",
     },
   ];
 
